@@ -1,0 +1,30 @@
+#tagline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Taipei_Skyline_2015.jpg/800px-Taipei_Skyline_2015.jpg');
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#titulo {
+    font-size: 75px;
+    color: rgb(54, 54, 54);
+    margin: 10px 320px;
+}
+#subtitulo {
+    font-size: 50px;
+    color: rgb(54, 54, 54);
+    margin: 10px 292px;
+}
+#primeraImagen {
+    height: 340px; 
+    width: 330px
+}
+#firstHeading {
+    font-size: 35px;
+}
+
