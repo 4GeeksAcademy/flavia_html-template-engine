@@ -27,4 +27,12 @@
 #firstHeading {
     font-size: 35px;
 }
+#imagenServices{
+    object-fit: cover;
+}
+#textoServices{
 
+}
+form {
+    width: 90%;
+}
